@@ -19,7 +19,7 @@ Supabase: For secure authentication and database management.
 
 Google AdMob: To serve advertisements. AdMob may use device identifiers to personalize ads.
 
-Google Play Billing: To process your ₹100 Annual Pass transactions safely.
+Google Play Billing: To process your Annual Pass transactions safely.
 
 4. Data Retention
 In accordance with our "Fresh Database" policy, we periodically delete user data for accounts with subscriptions that have been expired for more than one year.
