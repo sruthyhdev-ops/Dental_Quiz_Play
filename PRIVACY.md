@@ -25,4 +25,4 @@ Google Play Billing: To process your Annual Pass transactions safely.
 In accordance with our "Fresh Database" policy, we periodically delete user data for accounts with subscriptions that have been expired for more than one year.
 
 5. Contact Us
-If you have questions about this policy, please contact us via the 'Contact Us
+If you have questions about this policy, please contact
